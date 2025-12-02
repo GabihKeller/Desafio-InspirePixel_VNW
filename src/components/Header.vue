@@ -1,4 +1,4 @@
-<script setup>
+Z<script setup>
 import { Icon } from "@iconify/vue";
 import logo from "../assets/logo.png"
 
